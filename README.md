@@ -1,5 +1,7 @@
 # cdh - Change Directory History
 
+`cdh` is a smart shell function to manage and navigate your directory history with fuzzy search. In another words, it tracks directories you visit and store as a index for fast navigation between your most used directories.
+
 ## Overview
 
 The function stores directory paths in a history file (default: `~/.dir_history`).  
